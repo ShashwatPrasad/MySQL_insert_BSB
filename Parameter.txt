@@ -1,5 +1,8 @@
 
-APIN=APIN
-RegDate=23/05/2022
-last_name=Kumar
-Remarks=Remarks
+APIN=APINID
+RegDate=2022-25-05
+first_name=Shashwat
+last_name=Prasad
+phoneno=7777777`
+emailid=shfdadfaf@gmail.com
+IP_address=34234324
