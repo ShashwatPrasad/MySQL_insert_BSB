@@ -1,8 +1,6 @@
 
-APNID=APNID
-RequestDate=2022-05-27
+APNID=APNID12
 FirstName=Neeraj
 LastName=Kumar
-Phone=8800692967
-Email=to.neeraj.bhardwaj@gmail.com
-Comment=Comment
+IPaddress=123.24.45.12
+MacAddress=566:78:898:45
