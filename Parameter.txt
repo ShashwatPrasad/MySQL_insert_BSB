@@ -1,6 +1,6 @@
 
-APNID=APNID12
+APNID=APNID
 FirstName=Neeraj
 LastName=Kumar
-IPaddress=123.24.45.12
-MacAddress=566:78:898:45
+Passportno=Passportno
+Location=Latlong
