@@ -1,8 +1,8 @@
 
-APIN=APINID12
-RegDate=2022-25-05
-first_name=Shashwat
-last_name=Prasad
-phoneno=7777777`
-emailid=shfdadfaf@gmail.com
-IP_address=34234324
+APNID=APNID
+RequestDate=2022-05-27
+FirstName=Neeraj
+LastName=Kumar
+Phone=8800692967
+Email=to.neeraj.bhardwaj@gmail.com
+Comment=Comment
