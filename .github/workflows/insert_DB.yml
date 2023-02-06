@@ -35,10 +35,13 @@ jobs:
       - name: Run a multi-line script
         run: |
           source Parameter.txt
+          docker ps
+          docker images
           echo " before data inserted"
-          mysql -u d764864@cuscal.mysql.database.azure.com -h cuscal.mysql.database.azure.com -pProximus#18 -D cuscal -e "select * from cuscal;"
+          /* mysql -u d764864@cuscal.mysql.database.azure.com -h cuscal.mysql.database.azure.com -pProximus#18 -D cuscal -e "select * from cuscal;"
           mysql -u d764864@cuscal.mysql.database.azure.com -h cuscal.mysql.database.azure.com -pProximus#18 -D cuscal -e "INSERT INTO cuscal(BSB,APNId,RequestDate,FirstName,LastName,Phone,Email,Comment) VALUES ($BSB,$APNID,'$RequestDate','$FirstName','$LastName','$Phone','$Email','$Comment');"
           echo " data inserted"
           echo " after data inserted"
           mysql -u d764864@cuscal.mysql.database.azure.com -h cuscal.mysql.database.azure.com -pProximus#18 -D cuscal -e "select * from cuscal;"
           #mysql -u sql11488161 -h sql1.freemysqlhosting.net -pProximus#18 -D sql6467248 -e "show databases;"
+          */
